@@ -1,3 +1,3 @@
 # Github tutorial app
 
-learning github 
+learning github!
